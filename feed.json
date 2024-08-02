@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "YUZU",
+    "description": "",
+    "home_page_url": "https://chilijelly.github.io/YUZU",
+    "feed_url": "https://chilijelly.github.io/YUZU/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "CHAO"
+    },
+    "items": [
+    ]
+}
